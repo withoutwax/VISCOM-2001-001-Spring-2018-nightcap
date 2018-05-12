@@ -1,0 +1,114 @@
+/* Font Library */
+/* Beirut Display */
+@font-face {
+  font-family: 'BeirutDisplay';
+  font-style: normal;
+  font-weight: 900;
+  src:
+    local('BeirutDisplay Black'),
+    local('BeirutDisplay-Black'),
+    url(../../assets/fonts/BeirutDisplayTrial-Black.otf) format('otf');
+}
+@font-face {
+  font-family: 'BeirutDisplay';
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local('BeirutDisplay Bold'),
+    local('BeirutDisplay-Bold'),
+    url(../../assets/fonts/BeirutDisplayTrial-Bold.otf) format('otf'),
+    url(../../assets/fonts/BeirutDisplayTrial-BoldItalic.otf) format('otf');
+}
+@font-face {
+  font-family: 'BeirutDisplay';
+  font-style: normal;
+  font-weight: 600;
+  src:
+    local('BeirutDisplay SemiBold'),
+    local('BeirutDisplay-SemiBold'),
+    url(../../assets/fonts/BeirutDisplayTrial-SemiBold.otf) format('otf'),
+    url(../../assets/fonts/BeirutDisplayTrial-SemiBoldItalic.otf) format('otf');
+}
+@font-face {
+  font-family: 'BeirutDisplay';
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local('BeirutDisplay Book'),
+    local('BeirutDisplay-Book'),
+    url(../../assets/fonts/BeirutDisplayTrial-Book.otf) format('otf'),
+    url(../../assets/fonts/BeirutDisplayTrial-BookItalic.otf) format('otf');
+}
+@font-face {
+  font-family: 'BeirutDisplay';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('BeirutDisplay'),
+    local('BeirutDisplay-Regular'),
+    url(../../assets/fonts/BeirutDisplayTrial-Regular.otf) format('otf'),
+    url(../../assets/fonts/BeirutDisplayTrial-RegularItalic.otf) format('otf');
+}
+@font-face {
+  font-family: 'BeirutDisplay';
+  font-style: normal;
+  font-weight: 300;
+  src:
+    local('BeirutDisplay Light'),
+    local('BeirutDisplay-Light'),
+    url(../../assets/fonts/BeirutDisplayTrial-Light.otf) format('otf'),
+    url(../../assets/fonts/BeirutDisplayTrial-LightItalic.otf) format('otf');
+}
+
+
+/* Beirut Text */
+@font-face {
+  font-family: 'BeirutText';
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local('BeirutText Bold'),
+    local('BeirutText-Bold'),
+    url(../../assets/fonts/BeirutTextTrial-Bold.otf) format('otf'),
+    url(../../assets/fonts/BeirutTextTrial-BoldItalic.otf) format('otf');
+}
+@font-face {
+  font-family: 'BeirutText';
+  font-style: normal;
+  font-weight: 600;
+  src:
+    local('BeirutText SemiBold'),
+    local('BeirutText-SemiBold'),
+    url(../../assets/fonts/BeirutTextTrial-SemiBold.otf) format('otf'),
+    url(../../assets/fonts/BeirutTextTrial-SemiBoldItalic.otf) format('otf');
+}
+@font-face {
+  font-family: 'BeirutText';
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local('BeirutText Book'),
+    local('BeirutText-Book'),
+    url(../../assets/fonts/BeirutTextTrial-Book.otf) format('otf'),
+    url(../../assets/fonts/BeirutTextTrial-BookItalic.otf) format('otf');
+}
+@font-face {
+  font-family: 'BeirutText';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('BeirutText'),
+    local('BeirutText-Regular'),
+    url(../../assets/fonts/BeirutTextTrial-Regular.otf) format('otf'),
+    url(../../assets/fonts/BeirutTextTrial-RegularItalic.otf) format('otf');
+}
+@font-face {
+  font-family: 'BeirutText';
+  font-style: normal;
+  font-weight: 300;
+  src:
+    local('BeirutText Light'),
+    local('BeirutText-Light'),
+    url(../../assets/fonts/BeirutTextTrial-Light.otf) format('otf'),
+    url(../../assets/fonts/BeirutTextTrial-LightItalic.otf) format('otf');
+}
