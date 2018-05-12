@@ -2,7 +2,7 @@
   "name": "nightcap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/withoutwax/VISCOM-2001-001-Spring-2018-nightcap.git",
+  "homepage": "https://withoutwax.github.io/VISCOM-2001-001-Spring-2018-nightcap",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.2",
